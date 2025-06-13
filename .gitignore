@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE_LOCK
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration
+instance/
+.webassets-cache
+
+# Database
+*.sqlite
+*.db
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Generated files
+*.html
+!templates/*.html
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Large files
+*.mp4
+*.mov
+*.zip
+*.tar.gz
+*.rar
+
+# Specific large files
+mma_gyms_india.html
+raw_talent_scout_app/node_modules/
+raw_talent_scout_app/build/
+raw_talent_scout_app/dist/
